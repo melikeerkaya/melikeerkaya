@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Melike Erkaya, Bilgisayar Programcısı, Web ve Oyun Geliştirici">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04343f"/>
+      <stop offset="0.55" stop-color="#056a7a"/>
+      <stop offset="1" stop-color="#0a9aa6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .name { font: 700 66px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: 2px; }
+    .role { font: 400 28px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c9f4f6; }
+    .code { font: 400 20px Consolas, 'Courier New', monospace; fill: #7fe0e6; }
+    .float { animation: float 6s ease-in-out infinite; }
+    .late { animation-delay: -3s; }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+    @media (prefers-reduced-motion: reduce) { .float { animation: none; } }
+  </style>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <circle cx="1090" cy="40" r="150" fill="#ffffff" opacity="0.05"/>
+  <circle cx="930" cy="290" r="110" fill="#ffffff" opacity="0.05"/>
+
+  <text x="70" y="82" class="code">&lt;merhaba /&gt;</text>
+  <text x="68" y="162" class="name">Melike Erkaya</text>
+  <rect x="72" y="184" width="90" height="4" rx="2" fill="#7fe0e6"/>
+  <text x="70" y="233" class="role">Bilgisayar Programcısı  •  Web &amp; Oyun Geliştirici</text>
+
+  <!-- pırlanta: e-ticaret projesi -->
+  <g class="float" fill="none" stroke="#e6fdff" stroke-width="3" stroke-linejoin="round">
+    <path d="M900 82 L924 54 H986 L1010 82 L955 146 Z"/>
+    <path d="M900 82 H1010 M924 54 L938 82 L955 146 L972 82 L986 54 M938 82 L955 54 L972 82"/>
+  </g>
+  <!-- oyun kolu: Unity projesi -->
+  <g class="float late" fill="none" stroke="#e6fdff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1034 168 H1100 C1128 168 1144 230 1124 238 C1108 244 1098 214 1084 214 H1050 C1036 214 1026 244 1010 238 C990 230 1006 168 1034 168 Z"/>
+    <path d="M1032 191 H1052 M1042 181 V201"/>
+    <circle cx="1090" cy="185" r="3"/>
+    <circle cx="1104" cy="197" r="3"/>
+  </g>
+</svg>
