@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/melike-erkaya-32a597376/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://pirlantawebsite-frontend.vercel.app"><img src="https://img.shields.io/badge/Canl%C4%B1_Projem-056a7a?style=for-the-badge&logo=vercel&logoColor=white" alt="Canlı projem"></a>
+  <a href="https://melikeerkaya.github.io/Wizardrunninggame/"><img src="https://img.shields.io/badge/%E2%96%B6_Oyunumu_Oyna-d6338a?style=for-the-badge" alt="Oyunumu oyna"></a>
 </p>
 
 ## 👋 Hakkımda
@@ -42,6 +43,7 @@ Modern, mobil uyumlu ve kullanıcı deneyimi odaklı web siteleri geliştiriyoru
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
 | 💎 **Pırlanta E-Ticaret Sitesi**<br>[Canlı site](https://pirlantawebsite-frontend.vercel.app) · [Frontend](https://github.com/melikeerkaya/PirlantaWebSite-Frontend) · [Backend](https://github.com/melikeerkaya/PirlantaWebSite-Backend) | Pırlanta temalı e-ticaret sitesi | HTML, CSS, JavaScript, Node.js, MongoDB |
+| 🧙 **Pembe Büyücü**<br>[Tarayıcıda oyna](https://melikeerkaya.github.io/Wizardrunninggame/) · [Kodlar](https://github.com/melikeerkaya/Wizardrunninggame) | Bilgisayarda ve telefonda tarayıcıdan oynanan koşu oyunu | Unity, C# |
 | ⚖️ **Savcı Simülasyonu**<br>[Kodlar](https://github.com/melikeerkaya/ProsecutorGame) | Savcılık ofisinde geçen, geliştirdiğim oyun | Unity, C# |
 | 🛠️ **Yönetim Paneli**<br>[Kodlar](https://github.com/melikeerkaya/SoftItoBitirmeProjesi) | SoftITo bitirme projem: kullanıcı girişi, API bağlantısı ve ürün yönetimi | React, Bootstrap |
 | 📘 **SAP ABAP Çalışmalarım**<br>[Kodlar](https://github.com/melikeerkaya/sap-abap-learning) | Öğrenme sürecim ve uygulama projelerim | ABAP |
